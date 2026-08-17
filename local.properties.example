@@ -1,0 +1,8 @@
+# هذا الملف للتوضيح فقط — لا يُستخدم مباشرة.
+# عند البناء محلياً عبر Android Studio، سيتم توليد local.properties تلقائياً
+# ويحتوي على مسار Android SDK الخاص بجهازك، مثل:
+#
+# sdk.dir=/Users/yourname/Library/Android/sdk
+#
+# لا داعي لإنشائه يدوياً إذا كنت تستخدم Android Studio — سيُنشأ تلقائياً عند فتح المشروع.
+# ملف local.properties الحقيقي موجود ضمن .gitignore ولن يُرفع على GitHub أبداً (يختلف من جهاز لآخر).
